@@ -1,0 +1,1 @@
+Kubernetes é um orquestrador de contêineres que automatiza implantação, escala e recuperação de serviços distribuídos.

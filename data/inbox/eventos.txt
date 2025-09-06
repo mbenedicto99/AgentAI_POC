@@ -1,0 +1,1 @@
+Sistemas orientados a eventos usam logs append-only (como Kafka) para desacoplar produtores e consumidores, favorecendo escalabilidade e resiliência.
